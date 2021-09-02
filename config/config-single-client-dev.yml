@@ -2,5 +2,5 @@ data:
   env: localhost-dev-edit888
   user:
     username: fengzheng-dev999
-    password: password-dev-test
+    password: password-dev-test-test
     description: good-job
